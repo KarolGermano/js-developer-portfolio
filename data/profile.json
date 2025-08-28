@@ -1,78 +1,85 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Carolina Germano 🫱🏼‍🫲🏽",
+  "photo": "assets/img/my-photo.jpeg",
+  "job": "Estudante de Analise e Desenvolvimento de Sistemas",
+  "location": "Campinas - SP",
+  "phone": "(19) 98102-8048",
+  "email": "carolina.germano01@gmail.com",
   "skills": {
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
-      }
+        "logo": "data/imgs/nodejs.png"
+          },
+          {
+        "name": "Js",
+        "logo": "data/imgs/js.png"
+          },
+           {
+        "name": "VSCode",
+        "logo": "data/imgs/vscode.png"
+          },
+          {
+          "name": "Jira Cloud",
+        "logo": "data/imgs/jira1.png"
+          },
+           {
+        "name": "Google workspace",
+        "logo": "data/imgs/google2.png"
+          },
+          {
+          "name": "Git Hub",
+        "logo": "data/imgs/github.png"
+          }
+      
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Comunicação",
       "Trabalho em equipe",
       "Flexibilidade",
+      "Proatividade",
       "Organização"
-    ]
+
+        ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (em aprendizagem)",
+    "Espanhol (basico)"
+    
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso JS na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/KarolGermano/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso JS na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/KarolGermano/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Estudante de Analise e Desenvolvimento de Sistemas - Anhembi Morumbi",
+      "period": "2023 - até o momento",
+      "description": "Tem sido muito enriquecedor aprender algo novo que contribua para o desenvolvimento das minhas habilidades técnicas"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Faculdade de Administração de Empresa - Grupo Anhanguera Educacional",
+      "period": "207-2011",
+      "description": "Primeira graduação em Administração de Empresas, com ênfase em Finanças"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Assistente aAdministrativo - Euro Baby",
+      "period": "2019 - 2021",
+      "description": "Minhas experiências são principalmente na área administrativa, onde me identifico profundamente"
+    },
+    {
+      "name": "Analista de Garantia de Veiculos AVEC -Mitsubishi",
+      "period": "2012 - 2013",
+      "description": "Análise e acompanhamento de contratos relacionados ao processo de garantia de veículos"
     }
   ]
 }
